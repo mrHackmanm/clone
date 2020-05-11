@@ -1,0 +1,8 @@
+.Panel{
+    display:flex;
+    position: absolute;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    background-color: rgba(66, 66, 66,.9);
+}
+
